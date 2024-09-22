@@ -1,0 +1,45 @@
+
+UNIT 7: REQUIRENMENTS COVERAGE VIA USE CASES
+
+I: True/False questions
+1. Boundary objects can usually only talk to controllers and actors. (True)
+2. A use case doesn’t have clear boundaries. (False)
+3. Controllers can talk to boundary objects and entity objects, and to other controllers and to actors. (False)
+4. Entity objects can always only talk to controllers and boundary objects. (True)
+
+II: Short Answer Questions
+1. What is requirement?
+- A requirement is a specific thing your system must satisfy in order to work correctly. It is usually a single thing that can be tested to ensure the system has satisfied it.
+
+2. Why is writing use case iterative?
+- Writing use cases can be iterative because, while reviewing, it often uncovers additional requirements that the customer expects but didn't initially think about.
+
+3. Explain actor, goal, and scenario.
+- Actor: An external agent that interacts with the system.
+- Goal: The specific thing accomplished as a result of executing a use case.
+- Scenario: A narrative that describes what happens within a specific use case.
+
+4. What are the classifications of objects discovered via textual analysis?
+- Boundary Objects, Control Objects, and Entity Objects.
+
+
+UNIT 8: DATA REPRESENTATION
+
+I: True/False questions
+1. HTML is a super type of XML. (False)
+2. XML allows us to define custom tags. (True)
+3. XML is one of a script type language. (False)
+4. Domain modeling identifies only one class. (False)
+
+II: Short Answer Questions
+1. What is XML?
+- XML stands for EXtensible Markup Language, which is a technology for defining structured data descriptions that are customizable and portable across languages and operating system platforms.
+
+2. Advantage of XML?
+- XML allows the creation of custom tags, making it flexible, portable, and capable of being used across different platforms and languages.
+
+3. Explain low level design?
+- Low level design is the process where detailed design like class creation and message methods are implemented, which were identified during the high-level design phase.
+
+4. Explain how to identify a class?
+- Classes can be identified by listing objects in the diagrams, eliminating redundancies, and grouping similar objects, as well as determining the attributes and messages that belong to each class.
